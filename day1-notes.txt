@@ -1,0 +1,12 @@
+bash
+    cd <dir>
+        change directory, can be absolute (like "/c/revature")
+        or relative (like "my-project" in the current folder)
+    ls
+        list contents of current directory
+    mkdir <dir>
+        create a directory
+dotnet CLI
+    dotnet new
+        create new .NET projects
+        e.g. "dotnet new console" - new console application template.
